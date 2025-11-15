@@ -1,11 +1,10 @@
 # TP Integrador - Configuración de Servidor Debian
 
 ## Integrantes del Grupo
-- Nombre Integrante 1
-- Nombre Integrante 2
-- Nombre Integrante 3
-- Nombre Integrante 4
-- Nombre Integrante 5
+- Ramiro Castells Arias
+- Tomás Gómez Colloca
+- Patricio Goncevatt Torres
+- Faustino Ignacio Medard
 
 ## Descripción
 Trabajo práctico integrador de Computación Aplicada - Configuración de máquina virtual Debian con servicios SSH, Apache+PHP, MariaDB, particionamiento de disco y script de backup automatizado.
