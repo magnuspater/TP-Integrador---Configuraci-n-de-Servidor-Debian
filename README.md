@@ -20,7 +20,7 @@ Trabajo práctico integrador de Computación Aplicada - Configuración de máqui
 - `/var` - Logs del sistema (splitteado en partes)
 
 ## Componentes Implementados
-1. **Configuración de Red**: IP estática en eth0
+1. **Configuración de Red**: IP estática en enp0s3
 2. **SSH**: Acceso remoto con autenticación por clave pública/privada
 3. **Apache + PHP**: Servidor web con soporte PHP 7.3+
 4. **MariaDB**: Base de datos con script cargado
